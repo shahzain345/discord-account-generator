@@ -1,0 +1,20 @@
+{
+    "Email": {
+        "api": "antibotmail.com",
+        "key": "02491b7e-9a2e-4d7b-abfe-eaffdd95fa28"
+    },
+    "Usernames": {
+        "random_username": true,
+        "usernames_from_file": true
+    },
+    "Proxy": {
+        "proxyless": false
+    },
+    "Password": {
+        "random_password": true
+    },
+    "Captcha": {
+        "api": "nocaptchaai.com",
+        "key": "1zBJf-TRZKT-nZ4rf-FjSls-Eoqov"
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "browser_hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.43.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer": "^22.6.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "websocket": "^1.0.34",
+    "ws": "^8.16.0"
+  }
+}
