@@ -27,6 +27,7 @@ class EmailManager(requests.Session):
             self.password = response.get("Data").get("Emails")[0].get("Password")
             return self.email, self.password
         else:
+            print(response)
             return self.getEmail()
 
     def get(self, e, password):
